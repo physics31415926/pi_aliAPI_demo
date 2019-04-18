@@ -1,3 +1,3 @@
 # pi_aliAPI_demo
 
-pip -r python_requirements.txt
+pip install -r python_requirements.txt
