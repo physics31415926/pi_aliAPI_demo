@@ -1,0 +1,14 @@
+httplib
+json
+pydub
+wave
+io
+RPi.GPIO
+itchat
+urlparse
+datetime
+base64
+hmac
+hashlib
+urllib2
+picamera
