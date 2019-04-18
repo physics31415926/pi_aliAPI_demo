@@ -97,7 +97,7 @@ def trans_mp3_to_wav(file_path):
     f=wave.open("now.wav",'wb')
     f.setnchannels(1)
     f.setsampwidth(2)
-    f.setframerate(8000)
+    f.setframerate(16000)
     f.setnframes(l)
     f.writeframes(raw_data)
     f.close()
